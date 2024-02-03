@@ -1,1 +1,1 @@
-# MT5-YouTube-template
+# MT5 Live Trading Python template
